@@ -14,3 +14,5 @@ Now that you have your workspace set up, what do you want to try using Git for?
 To version control my projects
 What happens when you initialize a repository? Why do you need to do it?
 A Metadata file related to repository gets created, making an existing directory as new repository eligible for version controlling
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area holds files to be committed, it adds as an extra step to check what needs to be committed to repository
