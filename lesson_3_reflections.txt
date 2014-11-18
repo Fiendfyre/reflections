@@ -7,3 +7,5 @@ Fork is cloing an existing repository on Git hub, clone is to create a copy of r
 system, branch is a copy of local repository created for working on any experimental work.
 4.What is the benefit of having a copy of the last known state of the remote stored locally?
 It avoids sync conflicts between remote and local repository
+5.How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+By sharing files manually through email / p2p client.Harder to keep track of changes and feedback.
