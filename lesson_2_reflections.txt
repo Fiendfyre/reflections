@@ -1,0 +1,10 @@
+How can you use the staging area to make sure you have one commit per logical change?
+Running git add after every change will ensure only one commit per logical change using staging area
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you dont want to make non linear commits which area not related to the master branch, branches help out in working on different piece of code, will also provide flexibility to programmer in working on other stuff
+How do the diagrams help you visualize the branch structure?
+They help in figuring out parents for head commit and will identify commits which will miss.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Commits from both branches will be available at single place. It is easier to keep track of when the branch is created and what all commits will be included in Merge.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging will be faster and efficient, avoids user error. Automatic merging wont work for scenarios where the same code block has changes from multiple programmers
